@@ -13,7 +13,7 @@ export default function AboutSection() {
             </p>
             <p className="text-lg text-gray-400 mb-8 leading-relaxed">
               Founded on the principle that technology should enhance human potential, we specialize in creating
-              intelligent systems that not only meet today's challenges but anticipate tomorrow's opportunities.
+              intelligent systems that not only meet today&#39;s challenges but anticipate tomorrow&#39;s opportunities.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
