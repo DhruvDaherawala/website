@@ -34,7 +34,7 @@ export default function ContactSection() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-white mb-4">Get In Touch</h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Ready to transform your business with AI-powered solutions? Let's discuss your project and bring your vision
+            Ready to transform your business with AI-powered solutions? Let&#39;s discuss your project and bring your vision
             to life.
           </p>
         </div>
@@ -107,7 +107,7 @@ export default function ContactSection() {
             <div>
               <h3 className="text-2xl font-semibold text-white mb-6">Contact Information</h3>
               <p className="text-gray-400 mb-8">
-                We're here to help you innovate and grow. Reach out to us through any of the following channels.
+                We&#39;re here to help you innovate and grow. Reach out to us through any of the following channels.
               </p>
             </div>
 
